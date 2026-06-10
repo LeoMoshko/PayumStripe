@@ -1,5 +1,5 @@
 {
-    "name": "flux-se/payum-stripe",
+    "name": "leo-moshko/payum-stripe",
     "description": "Payum Stripe gateways",
     "type": "library",
     "keywords": [
